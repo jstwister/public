@@ -1,5 +1,3 @@
-import { sum } from 'src/Utils.js';
-import _ from 'lodash';
 export function Application(props) {
     return (
         <div>
